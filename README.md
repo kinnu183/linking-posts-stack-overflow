@@ -15,8 +15,6 @@ Implementation-
 
 For building the recommendation system we used the Doc2vec model which is one of the techniques used in the research paper
 
-No of posts taken - 100000
-
 Preprocessing 
   -Removed the stop words, punctuation marks, and Lemmatization is performed.
   -Created a new column tokenized_title which contains the list of words for the combined text - Title and Body of each record
