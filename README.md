@@ -21,8 +21,4 @@ Preprocessing
   
 List of documents are formed for each row
 
-Doc2Vec model is trained with necessary input parameters and is saved
-
-Test input is taken from the user and logic was written to return the top 10 most related posts out of the trained corpus
-
-Cosine similarity is also calculated for the user input with the corpus
+TF-IDF, Word2Vec, Doc2Vec model is trained with necessary input parameters and is saved
